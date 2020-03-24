@@ -1,2 +1,2 @@
 # BookStore
-study project for using JUnit
+study project for test development using JUnit
